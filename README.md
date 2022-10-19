@@ -23,7 +23,7 @@
 
 # Download/Config/uso:
 
-<h6> git clone https://github.com/hottzx/evil-droid/edit/main/README.md
+<h6> git clone https://github.com/hottzx/evil-droid.git
 
 cd Evil-Droid <br>
 chmod +x evil-droid <br>
