@@ -4,6 +4,8 @@
 # AVISO:
 <h6>Não me responsabilizo pelos seus atos, use o "evil-droid" de forma adequada e para conhecimentos.</h6>
 
+<h6>VIDEO TUTORIAL: https://www.youtube.com/watch?v=unBNFEOdmk0 </h6>
+
 # Screenshots:
 ![screen 1](https://user-images.githubusercontent.com/78913656/196567717-90dca4eb-8489-4d18-8042-86c1fd12a9f7.png)
 
